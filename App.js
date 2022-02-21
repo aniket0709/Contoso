@@ -9,7 +9,7 @@ import SupplierHomeScreen from './screens/supplier/SupplierHomeScreen';
 
 
 
-function App() {
+function App()  {
   return (
     <div className="page-container">
     <div className="content-wrap">
